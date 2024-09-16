@@ -1,4 +1,4 @@
-This project will be advance day by day :)
+This project will be advance day by day.This is just beginning.
 ----------
 Ana ekran:
 ![Screenshot 2024-09-16 at 17-37-44 Alışveriş Sitesi](https://github.com/user-attachments/assets/29dda690-de3e-4285-8543-2225313ff66e)
