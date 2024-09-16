@@ -1,0 +1,48 @@
+/* Sepet Sayfası Stili */
+
+ul.list-group {
+    margin-top: 20px;
+}
+
+.list-group-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+}
+
+.item-info {
+    display: flex;
+    align-items: center;
+}
+
+.item-info img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    margin-right: 15px;
+}
+
+.item-name {
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+.item-quantity-controls {
+    display: flex;
+    align-items: center;
+}
+
+.item-quantity-controls button {
+    margin: 0 10px;
+}
+
+.item-quantity {
+    width: 40px;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
